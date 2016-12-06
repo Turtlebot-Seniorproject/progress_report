@@ -1,0 +1,11 @@
+
+Todo list created on 20161202
+
+Task: Create map of any of the Engineering building floors
+Assigned Team Members: Steven, Nick
+
+Task: High Level Task Planning and Decision Making
+Assigned Team Members: James
+
+Task: UT Austin Codebase
+Assigned Team Members: Derek, Matt
